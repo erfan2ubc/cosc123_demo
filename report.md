@@ -1,7 +1,11 @@
 # this is title 
 this is body
 ## this is 2 heading
-**bold**
+**bold**  
+
+*Italic*
+
+
 list
 - item1
 - item2 
